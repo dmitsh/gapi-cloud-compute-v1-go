@@ -1,6 +1,6 @@
 module cloud.google.com/go/compute
 
-go 1.24.2
+go 1.23.3
 
 require (
 	github.com/googleapis/gax-go/v2 v2.14.1
